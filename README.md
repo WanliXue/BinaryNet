@@ -6,3 +6,8 @@ This repository enables the reproduction of the experiments described in the art
 It is divided in two subrepositories:
 * Train-time enables the reproduction of the benchmark results reported in the article
 * Run-time demonstrates the XNOR and baseline GPU kernels described in the article
+
+
+---
+
+One of the original BNN paper published in 2016
